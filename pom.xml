@@ -28,7 +28,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>30</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <modules>
@@ -159,7 +159,7 @@
         <junit.version>5.9.2</junit.version>
         <mockito-core.version>4.11.0</mockito-core.version>
         <system-stubs.version>2.1.4</system-stubs.version>
-        <lombok.version>1.18.30</lombok.version>
+        <lombok.version>1.18.32</lombok.version>
         <byte-buddy.version>1.14.9</byte-buddy.version>
 
         <!-- core lib dependency -->
